@@ -8,12 +8,12 @@ You must complete all the labs to successfully complete the project.
 ## Project Breakdown
 
 **Prework: Sign up for IBM Cloud account and create a Watson Natural language Understanding service**
-[x] 1. Create an IBM cloud account if you don't have one already.
-[x] 2. Create an instance of the Natural Language Understanding (NLU) service.
+[x] Create an IBM cloud account if you don't have one already.
+[x] Create an instance of the Natural Language Understanding (NLU) service.
 
 **Fork the project Github repository with a project then build and deploy the template project**
-[x] 1. Fork the repository in your account
-[ ] 2. Clone the repository in the theia lab environment
+[x] Fork the repository in your account
+[x] Clone the repository in the theia lab environment
 3. Create static pages to finish the user stories
 4. Deploy the application on IBM Cloud
 
